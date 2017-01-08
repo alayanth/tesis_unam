@@ -1,2 +1,4 @@
 #Índice
 
+Introducción
+  Justificación
