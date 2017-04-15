@@ -3,7 +3,7 @@ Repositorio para alojar la tesis de licenciatura
 
 # Generalidades
 
-Está tesis evalua el servicio de "Gesti+on central de certificados SSL para la UNAM", frente a la otros servicios como Let's Encrypt y otras Autoridades Certificadoras.
+Esta tesis evalua el servicio de "Gestión central de certificados SSL para la UNAM", frente a otros servicios como Let's Encrypt una entidad certificado que emite certificados sin costo.
 
 
 
